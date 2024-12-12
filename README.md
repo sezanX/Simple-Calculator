@@ -1,7 +1,7 @@
 # Simple Calculator
 
 A clean, minimalistic calculator built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and features a responsive design.
-
+     [Live Preview](https://sezanx.github.io/Simple-Calculator/)
 ## Table of Contents
 
 - [Overview](#overview)
