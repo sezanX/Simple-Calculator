@@ -28,7 +28,7 @@ This project is a simple, user-friendly calculator that performs basic arithmeti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/minimalistic-calculator.git
+    git clone https://github.com/sezanX/minimalistic-calculator.git
     ```
 
 2. Navigate to the project directory:
