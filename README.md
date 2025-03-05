@@ -28,13 +28,13 @@ This project is a simple, user-friendly calculator that performs basic arithmeti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sezanX/minimalistic-calculator.git
+    https://github.com/sezanX/Simple-Calculator
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd minimalistic-calculator
+    cd /Simple-Calculator
     ```
 
 3. Open `index.html` in your preferred web browser.
